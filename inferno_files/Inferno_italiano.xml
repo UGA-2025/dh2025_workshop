@@ -51,7 +51,7 @@
 	"id": "https://raw.githubusercontent.com/UGA-2025/dh2025_workshop/main/inferno_files/Inferno_italiano.xml?person_annotation_20250715142930874",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-15T13:29:30.874Z",
-	"dcterms:modified": "2025-07-15T13:29:30.874Z",
+	"dcterms:modified": "2025-07-15T13:35:23.963Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/UGA-2025",
 		"@type": [
